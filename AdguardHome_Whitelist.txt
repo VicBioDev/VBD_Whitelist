@@ -1,0 +1,57 @@
+# ==================================================
+# 🌐 General Utilities & Essential Services
+# These domains are for fundamental internet infrastructure and utility websites.
+# ==================================================
+
+# For network diagnostics and checking public IP address
+@@||wtfismyip.com^$important
+
+# Essential for many websites' performance and security (CDN, DNS)
+@@||cloudflare.com^$important
+
+
+# ==================================================
+# 🤖 AI Services
+# This section is for domains related to artificial intelligence services.
+# ==================================================
+
+# Allows access to services by Anthropic, the company behind the AI Claude
+@@||anthropic.com^$important
+
+
+# ==================================================
+# 🇨🇳 Chinese Applications & Services
+# These domains are required for specific Chinese applications to function.
+# ==================================================
+
+# --- Xiaohongshu (小红书) ---
+# Xiaohongshu's Content Delivery Network (CDN) for images and videos
+@@||xhscdn.com^$important
+# Application Performance Monitoring (APM) for the native app
+@@||apm-native.xiaohongshu.com^$important
+# Application Performance Monitoring (APM) for the front-end (web)
+@@||apm-fe.xiaohongshu.com^$important
+
+# --- Alibaba Cloud (阿里云) & General CDNs ---
+# Alibaba Cloud CDN, often used by various apps for content delivery
+@@||umc.danuoyi.alicdn.com^$important
+# Alibaba Cloud logging services, likely for video and app analytics
+@@||alivc-aio.cn-hangzhou.dualstack.log.aliyuncs.com^$important
+@@||videocloud.cn-hangzhou.dualstack.log.aliyuncs.com^$important
+# General CDN for a Chinese service
+@@||qiandaocdn.com^$important
+
+# --- Streaming & Other Services ---
+# Likely for a Chinese OTT (Over-The-Top) TV or video streaming service
+@@||tv.t002.ottcn.com^$important
+# Domain for a specific Chinese service or application
+@@||sd-gl.xinqiucc.com^$important
+
+
+# ==================================================
+# 👤 Personal or Specific Sites
+# This domain appears to be for a personal or specific-use website.
+# ==================================================
+
+# Personal website
+@@||victorlens.com^$important
