@@ -9,6 +9,12 @@
 # Essential for many websites' performance and security (CDN, DNS)
 @@||cloudflare.com^$important
 
+# ==================================================
+# 🌐 BitTorrent Trackers
+# These domains are for tracker websites for bittorrent.
+# ==================================================
+@@||asnet.pw^$important
+@@||mikanani.me^$important
 
 # ==================================================
 # 🤖 AI Services
