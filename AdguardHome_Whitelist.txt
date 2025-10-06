@@ -54,6 +54,10 @@
 # Domain for a specific Chinese service or application
 @@||sd-gl.xinqiucc.com^$important
 
+# --- Retail & E-commerce ---
+# Aldi China online store
+@@||aldi.com.cn^$important
+
 
 # ==================================================
 # 👤 Personal or Specific Sites
