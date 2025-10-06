@@ -52,6 +52,9 @@
 # Likely for a Chinese OTT (Over-The-Top) TV or video streaming service
 @@||tv.t002.ottcn.com^$important
 # Domain for a specific Chinese service or application
+
+# Authentication for Gitv TV streaming service
+@@||auth.api.gitv.tv^$important
 @@||sd-gl.xinqiucc.com^$important
 
 # --- Retail & E-commerce ---
