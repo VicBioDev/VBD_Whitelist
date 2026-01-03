@@ -51,6 +51,11 @@
 ||szextshort.weixin.qq.com^
 ||szminorshot.weixin.qq.com^
 ||szshort.weixin.qq.com^
+||paydns.weixin.qq.com^
+||apd-pcdnwxlogin.teg.tencent-cloud.net^
+||szminorshort.weixin.qq.com^
+||flv.wxqcloud.qq.com^
+||pull-m1.wxlivecdn.com.qlivecdn.com^
 ! ----------------------------------------------------------
 ! [4] 其它短视频平台 (可选)
 ! ----------------------------------------------------------
