@@ -18,6 +18,17 @@
 ||bytecdn.cn^
 ||byteimg.com^
 ||byted-static.com^
+||ixigua.com^
+||ixiguavideo.com^
+||snssdk.com^
+||toutiao.com^
+||bytetos.com^
+||douyincdn.com^
+||zijieapi.com^
+||bytedance.com^
+||bytegecko.com^
+||bytemastatic.com^
+||*.open-douyin.com^
 ! ----------------------------------------------------------
 ! [2] 快手 (Kuaishou)
 ! ----------------------------------------------------------
@@ -36,6 +47,10 @@
 ||finder.video.qq.com^
 ||channels.weixin.qq.com^
 ||weishi.qq.com^
+||*.video.qq.com^
+||szextshort.weixin.qq.com^
+||szminorshot.weixin.qq.com^
+||szshort.weixin.qq.com^
 ! ----------------------------------------------------------
 ! [4] 其它短视频平台 (可选)
 ! ----------------------------------------------------------
